@@ -1,6 +1,6 @@
 ### Expense Tracker
 
-Foobar is a Python library for dealing with word pluralization.
+The expense tracker tool I developed using React and Speechly
 
 ## Installation
 
